@@ -1,2 +1,2 @@
 # Amazon-Book-selling-Dashboard
-It contains important metrics that provide a clear image of online sales at Amazon stores of different books. 
+It contains important metrics that provide a clear image of online sales at Amazon stores of different books. There are different insights we can extract from this dashboard like, how many publishers are there, how many reviews, how many stars are collected by individual publishers, how many units we sold in total, and there are others also, which can be filtered by Genre, Publisher type. 
